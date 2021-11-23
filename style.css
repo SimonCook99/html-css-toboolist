@@ -1,0 +1,56 @@
+
+
+
+header h1{
+    display: inline-block;
+    text-align: center;
+    line-height: 0;
+    position: absolute;
+    bottom: 30%;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.container{
+    height: 80px;
+    padding-left: 20px;
+    position: relative;
+}
+
+main{
+    height: 1000px;
+    background-color: #f6f8f9;
+    padding-top: 50px;
+}
+
+main div{
+    width: 70%;
+    margin: auto;
+    background-color: white;
+    margin-top: 5px;
+}
+
+button{
+    margin: 10px 5px 10px 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 18px;
+    
+}
+
+.task-buttons-container{
+    height: 5%;
+}
+
+.section-button{
+    margin-left: 5px;
+    border: 1px solid grey;
+    background-color: white;
+    color: grey;
+}
+
+.task-button{
+    background-color: #47adf1;
+    color: white;
+    border: none;
+}
