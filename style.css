@@ -31,7 +31,7 @@ main div{
 
 /*Caratteristiche comune dei bottoni */
 button{
-    margin: 10px 5px 10px 50px;
+    margin: 20px 5px 10px 50px;
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 18px;
@@ -39,7 +39,7 @@ button{
 }
 
 .task-buttons-container{
-    height: 5%;
+    height: 7%;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
